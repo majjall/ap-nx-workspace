@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">agorapulse.nx.workspace</string>
+    <string name="title_activity_main">agorapulse.nx.workspace</string>
+    <string name="package_name">agorapulse.nx.workspace</string>
+    <string name="custom_url_scheme">agorapulse.nx.workspace</string>
+</resources>

@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Ngrx/Ionic Mobile App
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true" id="container">
+  <h1>
+    {{counter$ | async}}
+  </h1>
+  <p>
+    <ion-button (click)="increment()"> +1</ion-button>
+    <ion-button (click)="decrement()"> -1</ion-button>
+  </p>
+  <p>
+    <ion-button (click)="reset()"> Reset</ion-button>
+  </p>
+</ion-content>

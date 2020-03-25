@@ -1,0 +1,8 @@
+{
+  "appId": "agorapulse.nx.workspace",
+  "appName": "agorapulse.nx.workspace",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/apps/mobile",
+  "cordova": {}
+}
